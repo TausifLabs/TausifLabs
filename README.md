@@ -30,6 +30,9 @@
 
 ---
 
+
+<!--
+-------------------------------------------------------------------------------- Will update this feature later --------------------------------------------------------------------------------
 ## 📌 Featured Projects
 
 ### 🔹 **WebApp**
@@ -45,6 +48,8 @@ All Computer Science course materials and progress.
 Curated resources for Software Engineering students.
 
 > 📌 *Visit my repositories to explore more!*
+-->
+
 
 ---
 
