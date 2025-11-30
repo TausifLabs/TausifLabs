@@ -65,18 +65,11 @@ Curated resources for Software Engineering students.
 
 ## 🌐 Connect with Me
 
-📎 **LinkedIn:** https://linkedin.com/in/ittehad-ahmed-tausif  
-📧 **Email:** ittehadtausif@gmail.com  
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/<your-link>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=internet-explorer&logoColor=white&style=flat-square)](https://your-portfolio.example)
-[![Mail](https://img.shields.io/badge/Email-ittehadtausif%40gmail.com-lightgrey?logo=gmail&logoColor=white&style=flat-square)](mailto:ittehadtausif@gmail.com)
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ittehadahmedtausif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ittehad%20Ahmed%20Tausif-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a>
   </a>
   <a href="https://vercel.com/ittehad-ahmed-tausifs-projects" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111827?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
