@@ -69,6 +69,7 @@ Curated resources for Software Engineering students.
 <p align="center">
   <a href="https://www.linkedin.com/in/ittehadahmedtausif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ittehad%20Ahmed%20Tausif-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
   <a>
   </a>
   <a href="https://vercel.com/ittehad-ahmed-tausifs-projects" target="_blank">
