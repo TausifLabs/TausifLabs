@@ -1,4 +1,8 @@
 ## Hi there 👋
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 <!--
 **TausifLabs/TausifLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
