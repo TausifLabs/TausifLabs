@@ -48,10 +48,10 @@ All Computer Science course materials and progress.
 Curated resources for Software Engineering students.
 
 > 📌 *Visit my repositories to explore more!*
--->
-
 
 ---
+-->
+
 
 ## 📊 GitHub Stats
 
@@ -66,6 +66,24 @@ Curated resources for Software Engineering students.
 
 📎 **LinkedIn:** https://linkedin.com/in/ittehad-ahmed-tausif  
 📧 **Email:** ittehadtausif@gmail.com  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/<your-link>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=internet-explorer&logoColor=white&style=flat-square)](https://your-portfolio.example)
+[![Mail](https://img.shields.io/badge/Email-ittehadtausif%40gmail.com-lightgrey?logo=gmail&logoColor=white&style=flat-square)](mailto:ittehadtausif@gmail.com)
+
+
+<p>
+  <a href="https://www.linkedin.com/in/<your-link>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://your-portfolio.example" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=web&logoColor=white&style=flat-square" alt="Portfolio">
+  </a>
+  <a href="mailto:ittehadtausif@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ittehadtausif%40gmail.com-lightgrey?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  </a>
+</p>
 
 ---
 
