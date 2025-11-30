@@ -74,7 +74,7 @@ Curated resources for Software Engineering students.
 [![Mail](https://img.shields.io/badge/Email-ittehadtausif%40gmail.com-lightgrey?logo=gmail&logoColor=white&style=flat-square)](mailto:ittehadtausif@gmail.com)
 
 
-<p>
+<p align="center>
   <a href="https://www.linkedin.com/in/<your-link>" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
   </a>
