@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-
+</p>
 ---
 
 
@@ -50,8 +50,6 @@ Curated resources for Software Engineering students.
 > 📌 *Visit my repositories to explore more!*
 
 ---
--->
-
 
 ## 📊 GitHub Stats
 
@@ -60,8 +58,8 @@ Curated resources for Software Engineering students.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TausifLabs&layout=compact&theme=tokyonight" height="160">
 </p>
 
-
 ---
+-->
 
 ## 🌐 Connect with Me
 
@@ -69,8 +67,6 @@ Curated resources for Software Engineering students.
 <p align="center">
   <a href="https://www.linkedin.com/in/ittehadahmedtausif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ittehad%20Ahmed%20Tausif-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a>
   </a>
   <a href="https://vercel.com/ittehad-ahmed-tausifs-projects" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111827?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
@@ -82,7 +78,6 @@ Curated resources for Software Engineering students.
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
 </p>
-
 
 ---
 
